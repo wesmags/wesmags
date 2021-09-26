@@ -7,7 +7,7 @@ Currently working on:
 <br>
 
 __Power Panel is:__
->  a centralised command line interface mean't for all aspects of day-to-day computing needs 
+>  a centralised command line interface mean't for all aspects of day-to-day computing needs.
 > <br>
 > https://github.com/wesmags/Power-Panel
 
@@ -16,7 +16,7 @@ __Power Panel is:__
 __2D-Forest-Scene is:__
 
 
-> The 2D Forest Scene is a 2D pixel art scene set in a forest designed to have a great sense of atmosphere. It is built using an advanced framework built from scratch using nothing but python, pygame and other built in modules. This framework/library has many useful features which streamline the game creation process.
+> a framework/library that has many useful features which streamline the game creation process.
 > <br>
 > https://github.com/wesmags/2D-Forest-Scene
 
