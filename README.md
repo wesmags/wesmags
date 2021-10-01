@@ -7,7 +7,7 @@ Currently working on:
 <br>
 
 __Cobalt Engine is:__
-> an upcoming open source game engine.
+> An open source game engine for Windows, mainly for the development of 2D games.
 > <br>
 > https://github.com/Everglades-Development/Cobalt-Engine
 
