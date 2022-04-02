@@ -1,23 +1,6 @@
 # wesmags
 Currently working on: 
-- Cobalt Game Engine
-- Power Panel
 - 2D-Forest-Scene
-
-<br>
-
-__Cobalt Engine is:__
-> An open source game engine for Windows, mainly for the development of 2D games.
-> <br>
-> https://github.com/Everglades-Development/Cobalt-Engine
-
-
-<br>
-
-__Power Panel is:__
->  a centralised command line interface mean't for all aspects of day-to-day computing needs.
-> <br>
-> https://github.com/wesmags/Power-Panel
 
 <br>
 
