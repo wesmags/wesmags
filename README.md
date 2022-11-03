@@ -1,8 +1,7 @@
 # wesmags
-Currently working on: 
+Currently working on (Sort of): 
 - Oak Forest
-- 2D-Forest-Scene
-- Pine Profiler
+- 2D-Forest-Scene (currently on the backburner)
 
 <br>
 
@@ -15,21 +14,12 @@ __Oak Forest is:__
 <br>
 
 __2D-Forest-Scene is:__
-> a framework/library that has many useful features which streamline the game creation process.
+> a python framework/library that has many useful features which streamline the game creation process.
+> predominantly useful in developing with pygame. 
 > <br>
 > https://github.com/wesmags/2D-Forest-Scene
 
 <br>
-
-__Pine Profiler is:__
-> a simple, high-level, modular python debugger that seeks to automate the small tasks and increase overall producitvity.
-> <br>
-> https://github.com/wesmags/Pine-Profiler
-> <br>
-> pine wiki:
-> <br>
-> https://github.com/wesmags/Pine-Profiler/wiki
-
 
 
 
